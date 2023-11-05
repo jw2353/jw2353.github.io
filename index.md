@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in the Department of Earth and Atmospheric Sciences ([EAS][Cornell EAS website]) at Cornell University, advised by [Dr. Nicole Fernandez][Advisor's website].
+
+[Cornell EAS website]: https://www.eas.cornell.edu/eas
+[Advisor's website]: https://www.nicolemfernandez.com/
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Low-temperature Geochemistry:** Chemical Weathering, Water-rock Interaction, Reactive Transport Modeling
+- **Hydrogeology:** Hydrological Tracer, Subsurface Preferential Flow
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** My abstract is accpeted for oral presentation at the AGU23 Meeting! I am going to present my recent work on Fe-bearing granitic mineral dissolution in session EP51A.
+- **[Sep. 2023]** I have successfully passed my Q Exam!
+- **[Apr. 2023]** I am awarded Lipman Research Award from Geological Society of America on my proposal, "Weathering Kinetics of Granitic Iron-bearing Minerals"! 
 
 {% include_relative _includes/publications.md %}
 
