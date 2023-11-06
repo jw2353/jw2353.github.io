@@ -23,7 +23,6 @@
         {% endfor %}
         </ul>
     </div>
-</div>
 </li>
 
 <br>
