@@ -53,22 +53,7 @@
 .projects ol.project-list li .project-description {
     font-size: 1.2rem;
     margin-bottom: 10px;
-    margin-top: 10px;
-}
-  
-.projects ol.project-list li .badge {
-    background-color: var(--global-theme-color);
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-  
-.projects ol.project-list li .badge a {
-    color: white;
-}
-  
-.projects ol.project-list li .badge a:hover {
-    text-decoration: none;
+    margin-top: 20px;
 }
 
 .projects ol.project-list li .project-literature {
