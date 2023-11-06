@@ -19,8 +19,8 @@ instagram: https://instagram.com/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile_photo.JPG
-favicon: ./assets/img/cornell_logo_simple_b31b1b.svg
-favicon_dark: ./assets/img/cornell_logo_simple_white.svg
+favicon: ./assets/img/cornell_seal_simple_web_b31b1b.png
+favicon_dark: ./assets/img/cornell_seal_simple_web_white.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
