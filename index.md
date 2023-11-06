@@ -24,8 +24,6 @@ I am a Ph.D. student at [Cornell University EAS Department][Cornell EAS website]
 [AGU23_abstract_link]: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1414431
 [AGU23_session_link]: https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/203909
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/new_projects.md %}
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
