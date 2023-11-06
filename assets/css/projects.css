@@ -35,17 +35,26 @@
 .projects ol.projects-list li {
     margin-bottom: 0.5rem; /* Adjust space between project list items here */
 }
-  
+
+.projects ol.projects-list li .title-and-img-flexbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
 .projects ol.project-list li .project-image {
-    border: radius 4px;
+    flex-basis: 40%;
+}
+
+.projects ol.project-list li .project-image img{
     box-shadow: 2px 2px 2px 2px #888;
-    width: 60%;
+    width: 100%;
     height: auto;
-    margin-right: 1rem;
-    object-fit: cover;
 }
   
 .projects ol.project-list li .project-title {
+    flex-basis: 60%;
     font-weight: bolder;
     font-size: 1.5rem;
 }

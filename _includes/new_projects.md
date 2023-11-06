@@ -7,7 +7,13 @@
 
 <li>
 <div class="project-container">
-    <div class="project-title"><strong>{{ project.title }}</strong></div>
+    <div class="title-and-img-flexbox">
+        <div class="project-title"><strong>{{ project.title }}</strong></div>
+        <div class="project-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        {% if project.image %} 
+         <img src="{{ project.image }}" style="width=100;height=40%">
+        {% endif %}
+        </div>
     <div class="project-description">{{ project.description }}</div>
     <h3 id="project-literature" style="margin: 2px 0px -15px;">Relevant Literature</h3>
     <div class="project-literature">
@@ -16,11 +22,6 @@
             <li><a href="{{ literature.link }}" target="_blank">{{ literature.title }}</a></li>
         {% endfor %}
         </ul>
-    </div>
-    <div class="project-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        {% if project.image %} 
-         <img src="{{ project.image }}" style="width=100;height=40%">
-        {% endif %}
     </div>
 </div>
 </li>
