@@ -27,19 +27,22 @@
 .projects ol.projects-list li {
     margin-bottom: 0.5rem; /* Adjust space between project list items here */
     display: flex; /* Enables flexbox layout for the list items */
-    align-items: center; /* Vertically centers the flex items */
+    align-items: flex-start; /* Vertically centers the flex items */
+    margin-bottom: 20px;
   }
   
 .projects ol.project-list li .project-image {
+    flex-basis: 40%
     border-radius: 6px;
     box-shadow: 2px 2px 4px #888;
-    width: 100px;
+    width: 100%;
     height: auto;
     margin-right: 1rem;
     object-fit: cover;
 }
   
 .projects ol.project-list li .project-details {
+    flex-basis: 60%;
     margin-left: 5px;
 }
   
