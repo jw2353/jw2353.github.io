@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the [Department of Earth and Atmospheric Sciences] [Cornell EAS website] at Cornell University, advised by [Dr. Nicole Fernandez][Advisor's website].
+I am a Ph.D. student at [Cornell University EAS Department][Cornell EAS website], advised by [Dr. Nicole Fernandez][Advisor's website].
 
 [Cornell EAS website]: https://www.eas.cornell.edu/eas
 [Advisor's website]: https://www.nicolemfernandez.com/
@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Department of Earth and Atmospheric Sciences] [Corn
 
 ## Research Interests
 
-- **Low-temperature Geochemistry:** Chemical Weathering, Water-rock Interaction, Reactive Transport Modeling
+- **Low-temperature Geochemistry:** Water-rock Interaction, Reactive Transport Modeling
 - **Hydrogeology:** Hydrological Tracer, Subsurface Preferential Flow
 
 ## News
