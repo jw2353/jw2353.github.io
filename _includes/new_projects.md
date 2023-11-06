@@ -14,6 +14,7 @@
              <img src="{{ project.image }}" style="width=100;height=40%">
             {% endif %}
         </div>
+    </div>
     <div class="project-description">{{ project.description }}</div>
     <h3 id="project-literature" style="margin: 2px 0px -15px;">Relevant Literature</h3>
     <div class="project-literature">
