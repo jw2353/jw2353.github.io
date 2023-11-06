@@ -46,6 +46,7 @@
 }
 
 .projects ol.project-list li .project-image {
+    order: 2;
     flex-basis: 40%;
     display: inline-block;
 }
@@ -58,6 +59,7 @@
   
 .projects ol.project-list li .project-title {
     flex-basis: 40%;
+    order: 1;
     display: inline-block;
     font-weight: bolder;
     font-size: 1.5rem;
