@@ -51,12 +51,11 @@
 
 .projects ol.project-list li .project-image img{
     box-shadow: 2px 2px 2px 2px #888;
-    width: 40%;
     height: auto;
 }
   
 .projects ol.project-list li .project-title {
-    flex-basis: 60%;
+    flex-basis: 40%;
     font-weight: bolder;
     font-size: 1.5rem;
 }
