@@ -1,5 +1,6 @@
+<h2 id="projects" style="margin: 2px 0px -15px;">Ongoing Projects</h2>
+
 <div class="project-container">
-  <h2>Ongoing Projects</h2>
   {% for project in site.data.projects.main %}
   <div class="project">
     <div class="project-text">
