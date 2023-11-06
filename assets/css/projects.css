@@ -77,11 +77,11 @@
 
 .project-literature ul.literature-list {
     padding-left: 0; /* Removes indentation from the list */
-    list-style-type: none; /* Removes bullet points from the list */
+    list-style-type: circle; /* Removes bullet points from the list */
   }
   
   .project-literature ul.literature-list li {
-    margin-bottom: 2px; /* Adjust this value to increase or decrease the space between items */
+    margin-bottom: 4px; /* Adjust this value to increase or decrease the space between items */
   }
   
 
