@@ -36,7 +36,7 @@
     margin-bottom: 0.5rem; /* Adjust space between project list items here */
 }
 
-.projects ol.projects-list li .title-and-img-flexbox {
+.title-and-img-flexbox {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -45,19 +45,19 @@
     margin-bottom: 20px;
 }
 
-.projects ol.project-list li .project-image {
+.project-image {
     order: 2;
     flex-basis: 40%;
     display: inline-block;
 }
 
-.projects ol.project-list li .project-image img{
+.project-image img{
     box-shadow: 2px 2px 2px 2px #888;
     width: 100%;
     height: auto;
 }
   
-.projects ol.project-list li .project-title {
+.project-title {
     flex-basis: 40%;
     order: 1;
     display: inline-block;
@@ -65,7 +65,7 @@
     font-size: 1.5rem;
 }
   
-.projects ol.project-list li .project-description {
+.project-description {
     font-size: 1.2rem;
     margin-bottom: 10px;
     margin-top: 20px;

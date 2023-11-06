@@ -7,13 +7,13 @@
 
 <li>
 <div class="project-container">
-    <div class="title-and-img-flexbox">
-        <div class="project-title"><strong>{{ project.title }}</strong></div>
-        <div class="project-image">
+    <ul class="title-and-img-flexbox">
+        <li class="project-title"><strong>{{ project.title }}</strong></div>
+        <li class="project-image">
             {% if project.image %} 
              <img src="{{ project.image }}">
             {% endif %}
-        </div>
+        </ul>
     </div>
     <div class="project-description">{{ project.description }}</div>
     <h3 id="project-literature" style="margin: 2px 0px -15px;">Relevant Literature</h3>
