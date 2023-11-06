@@ -1,7 +1,6 @@
 <h2 id="projects" style="margin: 2px 0px -15px;">Ongoing Projects</h2>
 
 <div class="projects">
-<ol>
 
 {% for link in site.data.publications.main %}
 
