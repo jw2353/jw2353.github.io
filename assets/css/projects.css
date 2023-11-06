@@ -36,7 +36,7 @@
     margin-bottom: 0.5rem; /* Adjust space between project list items here */
 }
 
-.title-and-img-flexbox {
+.title-and-img-container {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
