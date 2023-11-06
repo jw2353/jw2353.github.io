@@ -41,12 +41,12 @@
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 20px;
 }
 
 .project-image {
-    flex-basis: 40%;
+    flex-basis: 50%;
     display: inline-block;
 }
 
@@ -57,7 +57,7 @@
 }
   
 .project-title {
-    flex-basis: 60%;
+    flex-basis: 50%;
     display: inline-block;
     font-weight: bolder;
     font-size: 1.5rem;
