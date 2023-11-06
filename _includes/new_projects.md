@@ -6,7 +6,6 @@
 {% for project in site.data.projects.main %}
 
 <li>
-<div class="project-container">
     <ul class="title-and-img-container">
         <li class="project-title"><strong>{{ project.title }}</strong></li>
         <li class="project-image">
