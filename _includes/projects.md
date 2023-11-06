@@ -19,7 +19,7 @@
             <ul class="literature-list">
                 {% for literature in project.literature %}
                 <li><a href="{{ literature.link }}" target="_blank">{{ literature.title }}</a></li>
-            {% endfor %}
+                {% endfor %}
             </ul>
         </div>
     </div>
