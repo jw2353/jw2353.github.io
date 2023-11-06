@@ -47,15 +47,19 @@
 
 .projects ol.project-list li .project-image {
     flex-basis: 40%;
+    display: inline-block;
 }
 
 .projects ol.project-list li .project-image img{
     box-shadow: 2px 2px 2px 2px #888;
     height: auto;
+    width: 100%;
+    height: auto;
 }
   
 .projects ol.project-list li .project-title {
     flex-basis: 40%;
+    display: inline-block;
     font-weight: bolder;
     font-size: 1.5rem;
 }
