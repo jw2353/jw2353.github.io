@@ -51,13 +51,8 @@
 }
   
 .projects ol.project-list li .project-description {
-    text-align: justify;
     font: size 1rem;
     margin-bottom: 10px;
-}
-  
-.projects ol.project-list li .project-description.open {
-    max-height: 100em;
 }
   
 .projects ol.project-list li .badge {
