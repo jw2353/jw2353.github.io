@@ -19,7 +19,7 @@
 }
 
 .projects h3 {
-    margin-bottom: 1.5rem;
+    margin-bottom: 3rem;
 }
   
 .projects h3 span {
@@ -80,7 +80,7 @@
 }
 
 .project-literature ul.literature-list {
-    padding-left: 8px; /* Removes indentation from the list */
+    padding-left: 20px; /* Removes indentation from the list */
     list-style-type: circle; /* Removes bullet points from the list */
   }
   
