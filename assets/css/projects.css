@@ -75,7 +75,17 @@
 .projects ol.project-list li .badge a:hover {
     text-decoration: none;
 }
+
+.project-literature ul.literature-list {
+    padding-left: 0; /* Removes indentation from the list */
+    list-style-type: none; /* Removes bullet points from the list */
+  }
   
+  .project-literature ul.literature-list li {
+    margin-bottom: 10px; /* Adjust this value to increase or decrease the space between items */
+  }
+  
+
 /* Responsive tweaks if needed */
 @media (max-width: 768px) {
     .projects ol.project-list li {
