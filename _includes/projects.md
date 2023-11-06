@@ -7,23 +7,23 @@
 
 <li>
 <div class="project-row">
-  <div class="col-sm-3 project-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if project.image %} 
-    <img src="{{ project.image }}" class="teaser img-fluid z-depth-1" 
-    style="width=100;height=40%;">
-    {% endif %}
-  </div>
-  <div class="col-sm-9 project-details" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="project-title"><strong>{{ project.title }}</strong></div>
-      <div class="project-description">{{ project.description }}</div>
-      <div class="project-literature">
+    <div class="col-sm-3 project-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        {% if project.image %} 
+         <img src="{{ project.image }}" class="img-fluid z-depth-1"  
+         style="width=100;height=40%;">
+        {% endif %}
+    </div>
+    <div class="col-sm-9 project-details" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="project-title"><strong>{{ project.title }}</strong></div>
+        <div class="project-description">{{ project.description }}</div>
+        <div class="project-literature">
         <ul class="literature-list">
-          {% for literature in project.literature %}
+            {% for literature in project.literature %}
             <li><a href="{{ literature.link }}" target="_blank">{{ literature.title }}</a></li>
-          {% endfor %}
+            {% endfor %}
         </ul>
-      </div>
-  </div>
+        </div>
+    </div>
 </div>
 </li>
 
