@@ -3,10 +3,10 @@ main:
     description: "An innovative approach to integrating multi-modal data for comprehensive analytics."
     image: "/assets/img/biotite.png"
     literature:
-      - title: "Whitepaper on Project Alpha Integration Techniques"
-        link: "http://example.com/whitepaper_alpha.pdf"
-      - title: "Research Article on Data Aggregation"
-        link: "http://example.com/research_article.pdf"
+      - title: "Biotite dissolution processes and mechanisms in the laboratory and in nature: Early stage weathering environment and vermiculitization"
+        link: "https://pubs.geoscienceworld.org/msa/ammin/article-abstract/88/2-3/377/43924/Biotite-dissolution-processes-and-mechanisms-in"
+      - title: "How Oxidation and Dissolution in Diabase and Granite Control Porosity during Weathering"
+        link: "https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2014.04.0135"
 
   - title: "Project Beta"
     description: "Developing next-gen solutions for blockchain-based transactions."
@@ -16,12 +16,3 @@ main:
         link: "http://example.com/intro_beta.pdf"
       - title: "Blockchain Transaction Models"
         link: "http://example.com/blockchain_models.pdf"
-
-  - title: "Project Gamma"
-    description: "Exploring the use of artificial intelligence in predictive analytics."
-    image: "/assets/img/project_gamma.png"
-    literature:
-      - title: "Predictive Models in AI"
-        link: "http://example.com/predictive_ai.pdf"
-      - title: "AI and Future Trends"
-        link: "http://example.com/ai_future.pdf"
