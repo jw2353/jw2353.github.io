@@ -47,14 +47,13 @@
   
 .projects ol.project-list li .project-title {
     font-weight: bolder;
-    font-size: large;
+    font-size: 1.5rem;
 }
   
 .projects ol.project-list li .project-description {
     text-align: justify;
-    font-size:small;
+    font: size 1rem;
     margin-bottom: 10px;
-    transition: all 0.15s ease;
 }
   
 .projects ol.project-list li .project-description.open {
