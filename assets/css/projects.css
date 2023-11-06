@@ -51,7 +51,7 @@
 }
   
 .projects ol.project-list li .project-description {
-    font: size 1.2rem;
+    font-size: 1.2rem;
     margin-bottom: 10px;
     margin-top: 10px;
 }
