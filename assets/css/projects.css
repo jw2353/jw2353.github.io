@@ -76,6 +76,10 @@
     text-decoration: none;
 }
 
+.projects ol.project-list li .project-literature {
+    margin-top: 1.5rem;
+}
+
 .project-literature ul.literature-list {
     padding-left: 8px; /* Removes indentation from the list */
     list-style-type: circle; /* Removes bullet points from the list */
