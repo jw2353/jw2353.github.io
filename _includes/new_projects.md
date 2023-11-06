@@ -9,9 +9,9 @@
 <div class="project-container">
     <div class="title-and-img-flexbox">
         <div class="project-title"><strong>{{ project.title }}</strong></div>
-        <div class="project-image" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="project-image">
             {% if project.image %} 
-             <img src="{{ project.image }}" style="width=100;height=40%">
+             <img src="{{ project.image }}">
             {% endif %}
         </div>
     </div>
