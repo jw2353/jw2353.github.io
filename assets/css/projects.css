@@ -39,6 +39,7 @@
 .projects ol.projects-list li .title-and-img-flexbox {
     display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
     justify-content: space-between;
     align-items: flex-start;
     margin-bottom: 20px;
