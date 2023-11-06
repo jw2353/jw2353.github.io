@@ -52,7 +52,6 @@
 
 .projects ol.project-list li .project-image img{
     box-shadow: 2px 2px 2px 2px #888;
-    height: auto;
     width: 100%;
     height: auto;
 }
