@@ -1,0 +1,96 @@
+.projects {
+    margin-top: 2rem;
+}
+  
+.projects h1 {
+    color: var(--global-theme-color);
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+  
+.projects h2 {
+    margin-bottom: 1rem;
+}
+  
+.projects h2 span {
+    font-size: 1.5rem;
+}
+  
+.projects ol.project-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+}
+  
+.projects ol.project-list li {
+    min-height: 110px;
+    margin-bottom: 0.5rem;
+    position: relative; /* Ensures absolute-positioned children are relative to this */
+}
+  
+.projects ol.project-list li .project-image {
+    border-radius: 8px;
+    box-shadow: 3px 3px 6px #888;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    object-fit: cover;
+}
+  
+.projects ol.project-list li .project-details {
+    margin-left: 5px;
+}
+  
+.projects ol.project-list li .project-title {
+    font-weight: bolder;
+}
+  
+.projects ol.project-list li .project-description {
+    text-align: justify;
+    font-size: 0.875rem;
+    line-height: 1.4em;
+    margin: 10px;
+    transition: all 0.15s ease;
+}
+  
+.projects ol.project-list li .project-description.open {
+    max-height: 100em;
+    transition: all 0.15s ease;
+}
+  
+.projects ol.project-list li .badge {
+    background-color: var(--global-theme-color);
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+  
+.projects ol.project-list li .badge a {
+    color: white;
+}
+  
+.projects ol.project-list li .badge a:hover {
+    text-decoration: none;
+}
+  
+/* Responsive tweaks if needed */
+@media (max-width: 768px) {
+    .projects ol.project-list li {
+      flex-direction: column;
+    }
+  
+    .projects ol.project-list li .project-image {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+}
+  
+@media (prefers-color-scheme: dark) {
+    .projects ol.project-list li .project-description {
+      background-color: var(--global-code-bg-color);
+    }
+}
+  
