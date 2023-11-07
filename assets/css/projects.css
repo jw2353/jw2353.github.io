@@ -37,6 +37,7 @@
 }
 
 .title-and-img-container {
+    padding-left: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -46,7 +47,7 @@
 }
 
 .project-image {
-    flex-basis: 50%;
+    flex-basis: 40%;
     display: inline-block;
 }
 
@@ -57,12 +58,11 @@
 }
   
 .project-title {
-    flex-basis: 50%;
+    flex-basis: 60%;
     display: inline-block;
     font-weight: bolder;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-left: 0;
-    margin-right: 20px;
 }
   
  .project-description {
