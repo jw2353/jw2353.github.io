@@ -1,6 +1,6 @@
 main:
   - title: "Dissolution kinetics of granitic Fe-bearing minerals at varying oxygen levels"
-    description: "An innovative approach to integrating multi-modal data for comprehensive analytics."
+    description: "Chemical weathering of silicate rocks serves an essential role in the geologic carbon cycle by acting as a key regulator of atmospheric CO2 over long (104-105 years). Dissolution of Fe-bearing primary minerals in granitoids (mainly biotite and hornblende) initiates chemical weathering and indirectly modulates observed rates by increasing porosity and reducing the mechanical strength of the bedrock. Fundamentally redox driven, a critical parameter dictating the extent of these Fe-based dissolution reactions is the availability of oxygen, a factor that is intimately tied to atmospheric oxygen levels and known to vary over geologic time. Despite the importance of varying redox conditions to silicate weathering, little work has sought to experimentally characterize the behavior of Fe-bearing mineral dissolute rates in response to varying oxygen fugacity."
     image: "/assets/img/biotite.png"
     literature:
       - title: "Biotite dissolution processes and mechanisms in the laboratory and in nature: Early stage weathering environment and vermiculitization"
