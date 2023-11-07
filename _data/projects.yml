@@ -1,5 +1,5 @@
 main:
-  - title: "Brew 'Coffee' from Rocks: Dissolution kinetics of granitic Fe-bearing minerals at varying oxygen levels"
+  - title: "Dissolution kinetics of granitic Fe-bearing minerals at varying oxygen levels"
     description: "An innovative approach to integrating multi-modal data for comprehensive analytics."
     image: "/assets/img/biotite.png"
     literature:
@@ -8,7 +8,7 @@ main:
       - title: "How Oxidation and Dissolution in Diabase and Granite Control Porosity during Weathering"
         link: "https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2014.04.0135"
 
-  - title: "Project Beta"
+  - title: "Optimize carbogeneous nanoparticle as subsurface flow tracer"
     description: "Developing next-gen solutions for blockchain-based transactions."
     image: "/assets/img/project_beta.png"
     literature:

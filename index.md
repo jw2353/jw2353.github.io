@@ -27,3 +27,5 @@ I am a Ph.D. student at [Cornell University EAS Department][Cornell EAS website]
 {% include_relative _includes/new_projects.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teaching.md %}
