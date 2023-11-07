@@ -10,9 +10,9 @@ main:
 
   - title: "Optimize carbogeneous nanoparticle as subsurface preferential flow tracer"
     description: "Developing next-gen solutions for blockchain-based transactions."
-    image: "/assets/img/project_beta.png"
+    image: "/assets/img/C-dot.png"
     literature:
-      - title: "Introduction to Project Beta Solutions"
-        link: "http://example.com/intro_beta.pdf"
-      - title: "Blockchain Transaction Models"
-        link: "http://example.com/blockchain_models.pdf"
+      - title: "Optimization of fluorescence and surface adsorption of citric acid/ethanolamine carbon nanoparticles for subsurface tracers"
+        link: "https://www.sciencedirect.com/science/article/pii/S0008622320306849"
+      - title: "Effect of Hydrophobicity of Fluorescent Carbon Nanoparticles on Transport in Porous Media: Column Experiments and Modeling"
+        link: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033957"
