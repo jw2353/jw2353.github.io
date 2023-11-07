@@ -9,5 +9,5 @@
 <h4 style="margin:0 10px 0;">Tutoring</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://sites.coecis.cornell.edu/eascorggle/past-projects/"><autocolor>Tutoring CorGGLE summer intern, Ian Fernandez, on project,"Quartz surface hydrophobicity using molecular dynamics modeling"</autocolor></a></li>
+  <li><a href="https://sites.coecis.cornell.edu/eascorggle/past-projects/"><autocolor>Tutoring CorGGLE summer intern (2023), Ian Fernandez, on project,"Quartz surface hydrophobicity using molecular dynamics modeling"</autocolor></a></li>
 </ul>
