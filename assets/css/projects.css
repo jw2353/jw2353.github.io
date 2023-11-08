@@ -62,7 +62,8 @@
     flex-basis: 60%;
     display: inline-block;
     font-weight: bolder;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+    align-content: center;
     margin-left: 0;
 }
   
