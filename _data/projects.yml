@@ -9,7 +9,7 @@ main:
         link: "https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2014.04.0135"
 
   - title: "Optimize carbogeneous nanoparticle as subsurface preferential flow tracer"
-    description: "Developing next-gen solutions for blockchain-based transactions."
+    description: "Tracing subsurface preferential flow has been a long-standing goal in the field of hydrogeology. While the emerging carbogenic nanoparticle, C-dot, has potential of being a useful hydrological tracer, its behavior in laboratory experiment with silica sand was in disagreement with the field test in sandstone landscape. This project will combine experiments and modeling to investigate the mechanisms behind this “paradox”, in order to optimize C-dot as tracer and to explore its even greater potential for surface characterization."
     image: "/assets/img/C-dot.png"
     literature:
       - title: "Optimization of fluorescence and surface adsorption of citric acid/ethanolamine carbon nanoparticles for subsurface tracers"
