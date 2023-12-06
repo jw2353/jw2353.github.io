@@ -4,7 +4,7 @@ layout: myhomepage
 
 ## About Me
 
-I am a Ph.D. student at [Cornell University EAS Department][Cornell EAS website], advised by [Dr. Nicole Fernandez][Advisor's website]. I graduated as a Geochemistry major from University of Science and Technology of China (USTC) in 2022.
+I am a Ph.D. student at [Cornell University EAS Department][Cornell EAS website], advised by [Dr. Nicole Fernandez][Advisor's website]. I graduated as a Geochemistry major from University of Science and Technology of China in 2022.
 
 [Cornell EAS website]: https://www.eas.cornell.edu/eas
 [Advisor's website]: https://www.nicolemfernandez.com/
